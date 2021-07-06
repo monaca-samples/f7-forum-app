@@ -1,5 +1,8 @@
 # Forum App Sample Application
 
+## How to make it work
+- [Step-by-step tutorial](https://medium.com/the-web-tub/build-a-forum-application-169542ab6151)
+
 ## UI
 
 Created with Framework 7.
